@@ -1,2 +1,2 @@
 # JSON-Web-Token
-Membuat Otentikasi JWT dengan  PHP Native
+Latihan Membuat Otentikasi JWT dengan  PHP Native
